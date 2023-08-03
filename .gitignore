@@ -10,5 +10,9 @@ out/
 # Docs
 docs/
 
+broadcast/
+
+lib/
+
 # Dotenv file
 .env

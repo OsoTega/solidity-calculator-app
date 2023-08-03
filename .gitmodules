@@ -1,3 +1,18 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/chainlink-brownie-contracts"]
+	path = lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "lib/solidity-stringutils"]
+	path = lib/solidity-stringutils
+	url = https://github.com/Arachnid/solidity-stringutils
+[submodule "lib/string-utils-lib"]
+	path = lib/string-utils-lib
+	url = https://github.com/OsoTega/string-utils-lib
+[submodule "lib/array-utils-lib"]
+	path = lib/array-utils-lib
+	url = https://github.com/OsoTega/array-utils-lib
+[submodule "lib/eval-utils-lib"]
+	path = lib/eval-utils-lib
+	url = https://github.com/OsoTega/eval-utils-lib
